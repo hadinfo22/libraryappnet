@@ -1,0 +1,91 @@
+body{
+    background-color:#ebe5e5;
+}
+.div1{
+    height:5px;
+    width:60px;
+    background-color:#369eda;
+    margin:auto;
+}
+.title1{
+    font-size:40px;
+    color:black;
+    text-align:center;
+    letter-spacing:3px;
+    word-spacing:5px;
+}
+.div2{
+    background-color:#369eda;
+    height:430px;
+    width:250px;
+    border:1px solid #369eda;
+    border-radius:10px;
+    float:left;
+    margin:60px;
+    text-align:center;
+}
+.div3{
+    background-color:#8eb7d1;
+    height:120px;
+    width:120px;
+    border:1px solid #8eb7d1;
+    border-radius:50%;
+    margin:auto;
+    text-align:center;
+}
+.hh{
+    margin-left:170px;
+}
+.title2{
+    color:#ebe5e5;
+}
+.title3{
+    color:black;
+    font-size:50px;
+    margin:30px auto 0px auto;
+}
+.title4{
+    color:black;
+    font-size:20px;
+    margin:0px auto 30px auto;
+}
+.btn1{
+    display:block;
+    color:black;
+    border: 1px solid #8eb7d1;
+    border-radius:5px;
+    background-color:#8eb7d1;
+    margin:60px auto;
+    font-size:10px;
+    height:25px;
+    width:100px;
+}
+.sp1{
+    color:#ebe5e5;
+    display:block;
+    margin:40px auto 15px auto;
+}
+.sp2{
+    color:#ebe5e5;
+    display:block;
+}
+.sp3{
+    color:#ebe5e5;
+    display:block;
+    margin:15px auto;
+}
+.div2:hover{
+    background-color:#8eb7d1;
+}
+.div3:hover{
+    background-color:#369eda;
+}
+.btn1:hover{
+    background-color:#369eda;
+}
+.title1:hover{
+    color:#369eda;
+}
+.div1:hover{
+    background-color:#8eb7d1;
+}
